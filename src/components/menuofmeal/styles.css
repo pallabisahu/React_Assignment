@@ -1,0 +1,44 @@
+.parentDiv{
+    background-color: #312f2f;
+}
+
+.menuHeaderText{
+    color: #e6d6d6;
+    font-size: 1.5rem;
+}
+
+.menuCard{
+    width:18rem;
+   
+}
+.menuImg{
+    height:18rem;
+    width: 18rem;
+}
+.lineStyle{
+    background-color: antiquewhite;
+    
+}
+.genre{
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.menuTitle{
+    color: #666666;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.imdbRating{
+    color: #999999;
+    font-size: 1rem;
+}
+.description{
+    font-size: 1rem;
+    color: #b3b3b3;
+}
+
+.linkColor{
+    color: #e27a19;
+}
